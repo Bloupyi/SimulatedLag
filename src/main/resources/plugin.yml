@@ -1,0 +1,13 @@
+name: SimulatedLag
+version: '1.0'
+main: fr.bloup.simulatedLag.SimulatedLag
+api-version: '1.18'
+authors: [ bloup ]
+commands:
+  simulatedlag:
+    description: "Main command"
+    permission: simulatedlag.admin
+    permission-message: "&cYou don't have permission to use this command."
+permissions:
+  simulatedlag.admin:
+    default: op
