@@ -1,7 +1,5 @@
 # SimulatedLag
 
-[![License](https://img.shields.io/github/license/bloupyi/SimulatedLag)](LICENSE)
-
 ## About SimulatedLag
 
 **SimulatedLag** allows you to artificially increase a player's latency by delaying incoming and outgoing packets. This can be useful for testing lag compensation, balancing mechanics, or simulating network issues for debugging purposes.
@@ -35,8 +33,8 @@ plugin.setPlayerTargetedLag(player, 200); // Set 200ms lag
 ## Installation
 1. Download the latest version of **SimulatedLag** from [GitHub Releases](https://github.com/bloupyi/SimulatedLag/releases) or a trusted source.
 2. Place the `.jar` file in your **plugins/** folder.
-3. Restart or reload your server.
-4. Configure the plugin using the `config.yml` file.
+3. Configure the plugin using the `config.yml` file.
+4. Restart your server.
 
 ## Compatibility
 - **Minecraft Versions:** 1.18+
@@ -51,6 +49,6 @@ This project is licensed under the [MIT License](LICENSE).
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FB287A?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)](https://www.java.com/)  
 [![Contributors](https://img.shields.io/github/contributors/bloupyi/SimulatedLag?color=blue&style=flat)](https://github.com/bloupyi/SimulatedLag/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/bloupyi/SimulatedLag?style=flat-square)](https://github.com/bloupyi/SimulatedLag/network/members)
-[![Stars](https://img.shields.io/github/stars/bloupyi/SimulatedLag?style=flat-square)](https://github.com/bloupyi/SimulatedLag/stargazers)
-[![Issues](https://img.shields.io/github/issues/bloupyi/SimulatedLag?style=flat-square)](https://github.com/bloupyi/SimulatedLag/issues)
+[![Forks](https://img.shields.io/github/forks/bloupyi/SimulatedLag?style=flat)](https://github.com/bloupyi/SimulatedLag/network/members)
+[![Stars](https://img.shields.io/github/stars/bloupyi/SimulatedLag?style=flat)](https://github.com/bloupyi/SimulatedLag/stargazers)
+[![Issues](https://img.shields.io/github/issues/bloupyi/SimulatedLag?style=flat)](https://github.com/bloupyi/SimulatedLag/issues)
